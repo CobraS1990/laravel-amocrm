@@ -1,12 +1,12 @@
 {
-    "name": "dotzero/laravel-amocrm",
+    "name": "stepovenko/laravel-amocrm",
     "description": "ServiceProvider и Facade для Laravel 5 предоставляющие интеграцию с API amoCRM",
     "license": "MIT",
     "keywords": ["laravel", "amocrm", "crm", "api"],
     "authors": [
         {
-            "name": "dotzero",
-            "email": "mail@dotzero.ru"
+            "name": "stepovenko",
+            "email": "stepovenko.denis@gmail.com"
         }
     ],
     "require": {
